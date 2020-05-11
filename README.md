@@ -1,5 +1,5 @@
 # Business Analytics
-##Business Analytics Projects
+## Business Analytics Projects
 
 This repository contains projects I developed during my Master's in Business Analytics.
 
